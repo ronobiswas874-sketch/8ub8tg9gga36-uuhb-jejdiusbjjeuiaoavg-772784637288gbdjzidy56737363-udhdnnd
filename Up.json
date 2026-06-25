@@ -1,0 +1,7 @@
+{
+  "show": true,
+  "title": "Update Available",
+  "message": "New version available",
+  "force": false,
+  "update_url": "https://example.com"
+}
